@@ -40,7 +40,7 @@
 
 ## <div id="sobre-o-projeto"> Sobre o projeto
 
-A proposta foi desenvolver uma API que faça conexão com a interface do app android criado durante o treinamento de Android ministrado pela IBM, a ideia é que o app consuma ao menos um endpoint da API e salve as informações no banco de dados. Este repositório foi feito para a entrega da parte do APP do projeto da Turma 3.
+A proposta foi desenvolver um aplicativo Android que faça conexão com uma API Java. Esse projeto foi durante o treinamento de Android ministrado pela IBM. A ideia é que o app consuma ao menos um endpoint da API e salve as informações no banco de dados.
 </div>
 
 ## <div id="objetivo"> Objetivo do projeto
@@ -87,20 +87,8 @@ O Health Plus é um aplicativo que une o melhor da sua saúde em um só lugar, a
 * <img src="https://img.shields.io/badge/-Java-%230077B5?style=for-the-badge&logo=java&logoColor=white" target="_blank">
 * <img src="https://img.shields.io/badge/-Android-%3DDC84?style=for-the-badge&logo=android&logoColor=white" target="_blank">
 * <img src="https://img.shields.io/badge/-Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
-* <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
 * <img src="https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" target="_blank">
-* <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" target="_blank">
 * <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" target="_blank">
-</div>
-
-## <div id="swagger"> Documentação da API
-  
-### Swagger
-
-```sh
-  http://localhost:8080//swagger-ui.html#/
-  ```
-<img width="866" alt="image" src="https://media.github.ibm.com/user/411747/files/39405600-5bd6-11ed-99ce-65ff7d85212a">
 </div>
 
 ## <div id="instalacao"> Instalação
@@ -108,9 +96,9 @@ O Health Plus é um aplicativo que une o melhor da sua saúde em um só lugar, a
  ```sh
  # Clone e abra este repositório:
   
-  git clone https://github.ibm.com/joana-dias/projeto-turma3-app.git
+  git clone https://github.ibm.com/joanadias28/app-health-plus.git
  
-  cd projeto-turma3-app
+  cd app-health-plus
   
   # Abra a pasta do projeto no Android Studio
   
