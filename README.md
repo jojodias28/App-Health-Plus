@@ -37,7 +37,7 @@
 
 ## <div id="sobre-o-projeto"> Sobre o projeto
 
-A proposta foi desenvolver um aplicativo Android que faça conexão com uma API Java. Esse projeto foi durante o treinamento de Android ministrado pela IBM. A ideia é que o app consuma ao menos um endpoint da API e salve as informações no banco de dados.
+A proposta foi desenvolver um aplicativo Android que faça conexão localmente com uma API Java. Esse projeto foi durante o treinamento de Android ministrado pela IBM. A ideia é que o app consuma ao menos um endpoint da API e salve as informações no banco de dados.
 </div>
 
 ## <div id="objetivo"> Objetivo do projeto
