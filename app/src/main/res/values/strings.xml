@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="senha">Senha</string>
+    <string name="email">E-mail</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="nome">Digite o seu nome</string>
+    <string name="divergin_passwords">Diverging passwords!</string>
+    <string name="warning">WARNING!</string>
+    <string name="fill_all">Fill in all fields</string>
+    <string name="ok">OK</string>
+    <string name="successful"> Registration successful</string>
+    <string name="wrong">"Something is wrong :("</string>
+    <string name="email_exists">E-mail already exists!</string>
+    <string name="login_succesfully">Login Succesfully</string>
+    <string name="login_unsuccesfully">Login Unsuccessfully</string>
+    <string name="incorrect_email_password">Incorrect email or password!</string>
+
+
+</resources>
