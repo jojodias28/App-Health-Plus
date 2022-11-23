@@ -26,9 +26,6 @@
       <a href="#ferramentas">Ferramentas</a>
     </li>
     <li>
-      <a href="#swagger">Documentação da API</a>
-    </li>
-    <li>
       <a href="#instalacao">Instalação</a>
     </li>
     <li>
