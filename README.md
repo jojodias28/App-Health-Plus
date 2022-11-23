@@ -96,7 +96,7 @@ O Health Plus é um aplicativo que une o melhor da sua saúde em um só lugar, a
  ```sh
  # Clone e abra este repositório:
   
-  git clone https://github.ibm.com/joanadias28/app-health-plus.git
+  git clone https://github.com/jojodias28/App-Health-Plus.git
  
   cd app-health-plus
   
